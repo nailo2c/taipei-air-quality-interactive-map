@@ -15,5 +15,5 @@ docker-compose up
 New a terminal in Jupyter Notebook and execute the command below:
 
 ```
-bokeh serve --show world_obesity.ipynb
+bokeh serve --show pm.ipynb
 ```
